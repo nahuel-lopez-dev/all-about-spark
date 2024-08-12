@@ -1,0 +1,9 @@
+El valor y la realidad de big data
+
+En los últimos años, han surgido otras "dos V": valor y veracidad. Los datos poseen un valor intrínseco. Sin embargo, no tienen ninguna utilidad hasta que dicho valor se descubre. Resulta igualmente importante: ¿cuál es la veracidad de sus datos y cuánto puede confiar en ellos?
+
+Hoy en día, el big data se ha convertido en un activo crucial. Piense en algunas de las mayores empresas tecnológicas del mundo. Gran parte del valor que ofrecen procede de sus datos, que analizan constantemente para generar una mayor eficiencia y desarrollar nuevos productos.
+
+Avances tecnológicos recientes han reducido exponencialmente el coste del almacenamiento y la computación de datos, haciendo que almacenar datos resulte más fácil y barato que nunca. Actualmente, con un mayor volumen de big data más barato y accesible, puede tomar decisiones empresariales más acertadas y precisas.
+
+Identificar el valor del big data no pasa solo por analizarlo (que es ya una ventaja en sí misma). Se trata de todo un proceso de descubrimiento que requiere que los analistas, usuarios empresariales y ejecutivos se planteen las preguntas correctas, identifiquen patrones, formulen hipótesis informadas y predigan comportamientos.

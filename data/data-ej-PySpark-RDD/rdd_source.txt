@@ -1,0 +1,3 @@
+Así podemos crear
+un RDD desde un
+archivo de texto!!!
