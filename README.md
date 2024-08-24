@@ -1,8 +1,10 @@
 <section id="inicio" align="center">
     <h1>All About Spark</h1>
     <img width=400 src="./img/img-Apache-Spark.png"/>
-    <h2 align="start">Proyecto para aprender Spark con Notebooks</h2>
+    <p><b>(From Zero to Little Ninja)</b></p>
 </section>
+
+<h2>Proyecto para aprender Spark con Notebooks</h2>
 
 ### Tabla de Contenidos:
 
