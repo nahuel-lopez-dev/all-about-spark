@@ -17,7 +17,28 @@
 
 ## **Información del proyecto**
 
-El proyecto es una recopilación de teoría y ejercicios sobre Spark, con PySpark y Spark SQL, para aprender con notebooks leyendo y practicando.  
+El proyecto es una recopilación de teoría y ejercicios sobre Spark, con PySpark y Spark SQL, para aprender con notebooks leyendo y practicando. 
+
+En cuanto al conjunto de datos que se utilizan en los notebooks, se encuentran en la carpeta data y se pueden cargar en el cuadro de archivos de Google Colab.
+
+La estructura en el cuadro de archivos debería verse así para cada notebook:
+
+- **Notebook de Spark_PySpark_RDD**
+
+![Imagen del cuadro de archivos del Notebook de Spark_PySpark_RDD](./img/Estructura_de_archivos_PySpark_RDD.png)
+
+- **Notebook de Spark_SQL_1 (Básico)**
+
+![Imagen del cuadro de archivos del Notebook de Spark SQL 1 Básico](./img/Estructura_de_archivos_SparkSQL_1_Basico.png)
+
+- **Notebook de Spark_SQL_2 (Avanzado)**
+
+![Imagen del cuadro de archivos del Notebook de Spark SQL 2 Avanzado](./img/Estructura_de_archivos_SparkSQL_2_Avanzado.png)
+
+- **Notebook de Spark_SQL_3_Funciones**
+
+![Imagen del cuadro de archivos del Notebook de Spark SQL 3 con Funciones](./img/Estructura_de_archivos_SparkSQL_3_Funciones.png)
+
 
 ## **Prerrequisitos**
 
